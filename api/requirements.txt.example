@@ -1,0 +1,7 @@
+fastapi==0.115.6
+snowflake-connector-python==3.6.0
+python-dotenv==1.0.1
+pandas==2.2.1
+uvicorn==0.34.0
+autopep8==1.6.0
+pytest==7.4.0
